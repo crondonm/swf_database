@@ -29,6 +29,9 @@ The database should be cited as:
 
 The views, interpretations, and conclusions derived from this database are those of the authors and do not necessarily represent those of the **Central Bank of Chile**, its Board, or the **International Forum of Sovereign Wealth Funds (IFSWF)**.
 
+As of the date of publication, the database is provided "as is" without any warranties of any kind, either express or implied.
+
+
 ---
 
 ## Contact
